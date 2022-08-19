@@ -32,10 +32,11 @@
                 android:marqueeRepeatLimit="marquee_forever"
                 />
             <ImageView
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
                 android:id="@+id/iv_pinned"
                 android:layout_alignParentEnd="true"
+                android:background="#00000000"
                 />
         </RelativeLayout>
         <TextView
